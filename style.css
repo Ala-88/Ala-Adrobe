@@ -109,7 +109,7 @@ section{
     margin-left: 40px;
 }
 
-.social-icons a {
+.social-icons a, img {
     color: white;
     font-size: 2.5em;
     margin-left: 20px; 
@@ -244,7 +244,7 @@ section{
     margin-right: 60px;
 }
 
-.footer .social-icons a{
+.footer .social-icons a, img{
     color: #000;
     font-size: 1.7em;
 }
