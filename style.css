@@ -113,11 +113,7 @@ section{
     color: white;
     font-size: 2.5em;
     margin-left: 20px; 
-}
-
-.social-icons a img{
     weight: 2.5em;
-    margin-left: 20px; 
 }
 
 .title {
@@ -249,14 +245,9 @@ section{
     margin-right: 60px;
 }
 
-.footer .social-icons a, img{
+.footer .social-icons a{
     color: #000;
     font-size: 1.7em;
-}
-
-.footer .social-icons a img{
-    margin-left: 20px; 
-    weight: 1.7em;
 }
 
 .footer-title{
